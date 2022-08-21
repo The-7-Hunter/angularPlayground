@@ -16,5 +16,4 @@ export class HeaderComponent implements OnInit {
   toggleView(): void {
     alert('toggle')
   }
-
 }
